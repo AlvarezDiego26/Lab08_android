@@ -1,4 +1,4 @@
-package com.example.lab08.database
+package com.example.lab08_android.database;
 import androidx.room.ColumnInfo
 import androidx.room.Entity
 import androidx.room.PrimaryKey
